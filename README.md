@@ -3,6 +3,8 @@
 A Deep Learning-based Custom Object Detection System developed using YOLO and PyTorch. This project uses transfer learning to train a custom object detection model capable of identifying and localizing specific objects within images. The trained model is integrated with a Flask web application, allowing users to upload images and receive real-time object detection results.
 
 ---
+<img width="1317" height="715" alt="image" src="https://github.com/user-attachments/assets/bc8abe71-86b6-4a4e-89ff-c737207d92ec" />
+
 
 ## Project Overview
 
