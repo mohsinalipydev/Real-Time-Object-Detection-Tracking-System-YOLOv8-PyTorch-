@@ -5,6 +5,9 @@ A Deep Learning-based Custom Object Detection System developed using YOLO and Py
 ---
 <img width="1317" height="715" alt="image" src="https://github.com/user-attachments/assets/bc8abe71-86b6-4a4e-89ff-c737207d92ec" />
 
+<img width="1904" height="908" alt="Screenshot 2026-04-23 134337" src="https://github.com/user-attachments/assets/aed1c565-d509-4c40-9fa7-447f7a96d93a" />
+
+
 
 ## Project Overview
 
